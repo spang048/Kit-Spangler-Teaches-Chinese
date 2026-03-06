@@ -35,7 +35,6 @@ export default function OnboardingPage() {
       id: user.id,
       display_name: displayName.trim() || "Learner",
       daily_goal_min: dailyGoal,
-      starting_hsk: hskLevel,
       current_hsk: hskLevel,
       onboarding_complete: true,
     });
