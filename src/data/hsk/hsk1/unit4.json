@@ -1,0 +1,153 @@
+{
+  "id": "hsk1-unit4",
+  "hsk_level": 1,
+  "unit_index": 4,
+  "title": "Food & Daily Life",
+  "title_zh": "饮食与日常生活",
+  "description": "Learn how to talk about food, shopping, and everyday objects.",
+  "kit_intro": "I still remember my first bowl of 米饭 at a tiny restaurant in Chengdu — I pointed, smiled, and said 好吃. That was enough. Food is the fastest way into any Chinese conversation.",
+  "vocabulary_ids": [
+    "hsk1-071", "hsk1-072", "hsk1-073", "hsk1-074", "hsk1-075",
+    "hsk1-076", "hsk1-077", "hsk1-078", "hsk1-079", "hsk1-080",
+    "hsk1-081", "hsk1-082", "hsk1-083", "hsk1-084", "hsk1-085",
+    "hsk1-086", "hsk1-087", "hsk1-088", "hsk1-089", "hsk1-090",
+    "hsk1-091", "hsk1-092", "hsk1-093", "hsk1-094"
+  ],
+  "lessons": [
+    {
+      "id": "hsk1-unit4-lesson1",
+      "lesson_index": 1,
+      "title": "Eating & Drinking",
+      "title_zh": "吃和喝",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u4l1-001",
+          "type": "flashcard",
+          "word_id": "hsk1-071"
+        },
+        {
+          "id": "ex-u4l1-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-076",
+          "prompt": "Which means 'cooked rice'?",
+          "distractors": ["hsk1-074", "hsk1-075", "hsk1-077"]
+        },
+        {
+          "id": "ex-u4l1-003",
+          "type": "listening",
+          "word_id": "hsk1-072",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-071", "hsk1-073", "hsk1-074"]
+        },
+        {
+          "id": "ex-u4l1-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德想___一杯茶。",
+          "correct_word_id": "hsk1-072",
+          "distractors": ["hsk1-071", "hsk1-073", "hsk1-076"]
+        },
+        {
+          "id": "ex-u4l1-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-071", "match": "eat" },
+            { "word_id": "hsk1-072", "match": "drink" },
+            { "word_id": "hsk1-075", "match": "tea" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit4-lesson2",
+      "lesson_index": 2,
+      "title": "Shopping & Money",
+      "title_zh": "购物与金钱",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u4l2-001",
+          "type": "flashcard",
+          "word_id": "hsk1-081"
+        },
+        {
+          "id": "ex-u4l2-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-083",
+          "prompt": "Which means 'shop / store'?",
+          "distractors": ["hsk1-080", "hsk1-081", "hsk1-084"]
+        },
+        {
+          "id": "ex-u4l2-003",
+          "type": "listening",
+          "word_id": "hsk1-073",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-071", "hsk1-072", "hsk1-082"]
+        },
+        {
+          "id": "ex-u4l2-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德去___买苹果。",
+          "correct_word_id": "hsk1-083",
+          "distractors": ["hsk1-080", "hsk1-085", "hsk1-081"]
+        },
+        {
+          "id": "ex-u4l2-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-073", "match": "buy" },
+            { "word_id": "hsk1-081", "match": "money" },
+            { "word_id": "hsk1-083", "match": "shop / store" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit4-lesson3",
+      "lesson_index": 3,
+      "title": "Everyday Objects",
+      "title_zh": "日常物品",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u4l3-001",
+          "type": "flashcard",
+          "word_id": "hsk1-086"
+        },
+        {
+          "id": "ex-u4l3-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-089",
+          "prompt": "Which means 'mobile phone'?",
+          "distractors": ["hsk1-086", "hsk1-087", "hsk1-088"]
+        },
+        {
+          "id": "ex-u4l3-003",
+          "type": "listening",
+          "word_id": "hsk1-085",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-086", "hsk1-091", "hsk1-092"]
+        },
+        {
+          "id": "ex-u4l3-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德的___在桌子上。",
+          "correct_word_id": "hsk1-089",
+          "distractors": ["hsk1-085", "hsk1-086", "hsk1-093"]
+        },
+        {
+          "id": "ex-u4l3-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-085", "match": "book" },
+            { "word_id": "hsk1-086", "match": "computer" },
+            { "word_id": "hsk1-089", "match": "mobile phone" }
+          ]
+        }
+      ]
+    }
+  ]
+}

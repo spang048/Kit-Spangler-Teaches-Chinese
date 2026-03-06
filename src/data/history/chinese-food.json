@@ -1,0 +1,96 @@
+{
+  "id": "chinese-food",
+  "title": "Chinese Cuisine: A Nation Eats",
+  "title_zh": "中国饮食：舌尖上的中国",
+  "category": "culture",
+  "difficulty": "beginner",
+  "estimated_read_minutes": 3,
+  "xp_reward": 20,
+  "thumbnail_emoji": "🍜",
+  "kit_commentary": "Food is genuinely the fastest way I've found to understand a Chinese region — after seventy-eight trips I still look forward every time to sitting down with local farmers or colleagues and letting them order, because what arrives on the table tells you something a textbook never quite can.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "China's culinary landscape is one of the most diverse and regionally distinct in the world. Chinese culinary tradition recognizes Eight Great Cuisines, each shaped by local ingredients, climate, and history: Cantonese, Sichuan, Jiangsu, Zhejiang, Fujian, Hunan, Anhui, and Shandong. Cantonese cuisine, from Guangdong province, emphasizes fresh ingredients, delicate flavors, and minimal cooking time, and gave the world dim sum — the tradition of yum cha where small dishes of dumplings, buns, and rolls are served with tea. Sichuan cuisine from southwestern China is famous for its bold, spicy, numbing flavors achieved through chili peppers and Sichuan peppercorns, an ingredient that produces a distinctive mouth-tingling sensation known as ma la, meaning 'numbing and spicy.' Beijing cuisine, meanwhile, is known for its imperial heritage, featuring Peking duck and hearty northern dishes.",
+        "vocab_highlights": [
+          { "word": "Eight Great Cuisines", "zh": "八大菜系", "pinyin": "bā dà càixì" },
+          { "word": "dim sum", "zh": "点心", "pinyin": "diǎnxīn" },
+          { "word": "numbing and spicy", "zh": "麻辣", "pinyin": "má là" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Food in China carries deep cultural and social meaning far beyond nutrition. The Chinese greeting 'Have you eaten?' — Ni chi le ma? — reflects a culture where sharing a meal is the primary way of building and maintaining relationships. Meals are typically communal, with dishes placed in the center of the table for everyone to share rather than served as individual plates. The round table is itself symbolic, representing equality and togetherness. Chopsticks have been used in China for over three thousand years and carry their own etiquette: never stick them upright in a bowl of rice, as this resembles incense sticks at a funeral. Pouring tea for others before filling your own cup is a sign of respect observed across generations and regions.",
+        "vocab_highlights": [
+          { "word": "Have you eaten?", "zh": "你吃了吗？", "pinyin": "nǐ chī le ma?" },
+          { "word": "chopsticks", "zh": "筷子", "pinyin": "kuàizi" },
+          { "word": "tea", "zh": "茶", "pinyin": "chá" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "Tea culture is deeply woven into Chinese life and history. China is the birthplace of tea, and written records of its use date back more than two thousand years. The major categories of Chinese tea include green tea, white tea, oolong, black tea, and fermented pu'er, each with distinct growing regions and preparation methods. The elaborate practice of gongfu cha — the Chinese tea ceremony — involves precise water temperatures, small clay teapots, and multiple short infusions that allow the drinker to appreciate a tea's evolving flavors. Beyond ceremony, tea shops and teahouses remain social institutions in Chinese cities and towns, serving as spaces for conversation, business, and leisure. Understanding regional teas is one of the most rewarding ways to explore China's geographic and cultural diversity.",
+        "vocab_highlights": [
+          { "word": "tea ceremony", "zh": "功夫茶", "pinyin": "gōngfū chá" },
+          { "word": "pu'er tea", "zh": "普洱茶", "pinyin": "pǔ'ěr chá" },
+          { "word": "teahouse", "zh": "茶馆", "pinyin": "cháguǎn" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many cuisines are recognized in the traditional 'Eight Great Cuisines' of China?",
+        "options": ["Four", "Six", "Eight", "Ten"],
+        "correct_index": 2,
+        "explanation": "Chinese culinary tradition formally recognizes eight regional cuisines — Cantonese, Sichuan, Jiangsu, Zhejiang, Fujian, Hunan, Anhui, and Shandong — each with distinct ingredients and techniques."
+      },
+      {
+        "id": "q2",
+        "question": "What does the Sichuan term 'ma la' describe?",
+        "options": [
+          "A sweet and sour flavor profile",
+          "A numbing and spicy sensation from Sichuan peppercorns and chili",
+          "A mild, fragrant style of cooking",
+          "A fermented or pickled food preparation"
+        ],
+        "correct_index": 1,
+        "explanation": "Ma la (麻辣) literally means 'numbing and spicy' and refers to the signature flavor of Sichuan cuisine, produced by combining chili heat with the mouth-tingling effect of Sichuan peppercorns."
+      },
+      {
+        "id": "q3",
+        "question": "What does the common Chinese greeting 'Ni chi le ma?' literally mean?",
+        "options": [
+          "How are you feeling today?",
+          "Where are you going?",
+          "Have you eaten?",
+          "What are you cooking?"
+        ],
+        "correct_index": 2,
+        "explanation": "'Ni chi le ma?' means 'Have you eaten?' — a greeting that reflects the centrality of food and shared meals in Chinese social life and the cultural importance of ensuring others are fed."
+      },
+      {
+        "id": "q4",
+        "question": "Why is it considered bad etiquette to stick chopsticks upright in a bowl of rice?",
+        "options": [
+          "It signals that you have not enjoyed the meal",
+          "It resembles incense sticks placed at a funeral and is associated with death",
+          "It wastes food by pushing rice to the sides of the bowl",
+          "It is considered impolite to the chef who prepared the dish"
+        ],
+        "correct_index": 1,
+        "explanation": "Chopsticks stuck upright in rice resemble incense sticks burned at funerals and memorials, making this gesture a strong taboo associated with death and bad luck."
+      },
+      {
+        "id": "q5",
+        "question": "Which type of tea is produced through a fermentation process and is associated with Yunnan province?",
+        "options": ["Longjing green tea", "Tieguanyin oolong", "Pu'er tea", "Silver Needle white tea"],
+        "correct_index": 2,
+        "explanation": "Pu'er tea is a fermented tea from Yunnan province that can be aged for years or decades, developing complex earthy flavors and a devoted following among tea collectors."
+      }
+    ]
+  }
+}

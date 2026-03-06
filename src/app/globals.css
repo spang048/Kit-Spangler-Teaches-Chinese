@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --brand-red: #c8102e;
+  --brand-red-dark: #a00d25;
+  --brand-gold: #d4af37;
+  --brand-ink: #1a1a1a;
+  --brand-cream: #faf8f5;
+  --brand-gray: #6b7280;
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-red: var(--brand-red);
+  --color-brand-red-dark: var(--brand-red-dark);
+  --color-brand-gold: var(--brand-gold);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-cream: var(--brand-cream);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+/* Chinese character rendering */
+.chinese {
+  font-family: "Noto Serif SC", "Source Han Serif CN", "STSong", "SimSun",
+    "宋体", serif;
+}
+
+/* Pinyin tone marks render correctly */
+.pinyin {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.05em;
+}
+
+/* Seal stamp ink texture effect */
+.seal-ink {
+  filter: url(#ink-texture);
+}
+
+/* Safe area for iPhone home indicator */
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 16px);
+}
+
+/* Shake animation for wrong answers */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-8px); }
+  40% { transform: translateX(8px); }
+  60% { transform: translateX(-5px); }
+  80% { transform: translateX(5px); }
+}
+
+.shake {
+  animation: shake 0.4s ease-in-out;
+}
+
+/* Stamp reveal animation */
+@keyframes stamp-down {
+  0% { transform: scale(1.5) rotate(-5deg); opacity: 0; }
+  60% { transform: scale(0.9) rotate(2deg); opacity: 1; }
+  80% { transform: scale(1.05) rotate(-1deg); }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+
+.stamp-reveal {
+  animation: stamp-down 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* Slide up from bottom */
+@keyframes slide-up {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+.slide-up {
+  animation: slide-up 0.25s ease-out forwards;
+}
+
+/* XP pop animation */
+@keyframes xp-pop {
+  0% { transform: translateY(0) scale(1); opacity: 1; }
+  100% { transform: translateY(-40px) scale(1.2); opacity: 0; }
+}
+
+.xp-pop {
+  animation: xp-pop 0.8s ease-out forwards;
+}
+
+/* Tailwind v4 animate utilities */
+@utility animate-slide-up {
+  animation: slide-up 0.25s ease-out forwards;
+}
+
+@utility animate-stamp-reveal {
+  animation: stamp-down 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+@utility animate-xp-pop {
+  animation: xp-pop 0.8s ease-out forwards;
+}
+
+/* active:scale-98 handled as a plain CSS class */
+.active-scale-98:active {
+  transform: scale(0.98);
+}

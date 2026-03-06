@@ -1,0 +1,152 @@
+{
+  "id": "hsk1-unit1",
+  "hsk_level": 1,
+  "unit_index": 1,
+  "title": "Greetings & Basic Phrases",
+  "title_zh": "问候与基本用语",
+  "description": "Learn to say hello, goodbye, thank you, and sorry.",
+  "kit_intro": "The first word I learned in Mandarin was 你好. In 1990, walking into a Beijing market and saying it to a vendor — the smile I got back was priceless. These words open every door.",
+  "vocabulary_ids": [
+    "hsk1-001", "hsk1-002", "hsk1-003", "hsk1-004", "hsk1-005",
+    "hsk1-006", "hsk1-007", "hsk1-008", "hsk1-009", "hsk1-010",
+    "hsk1-011", "hsk1-012", "hsk1-013", "hsk1-014", "hsk1-015",
+    "hsk1-016", "hsk1-017", "hsk1-018", "hsk1-019", "hsk1-020"
+  ],
+  "lessons": [
+    {
+      "id": "hsk1-unit1-lesson1",
+      "lesson_index": 1,
+      "title": "Say Hello",
+      "title_zh": "打招呼",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u1l1-001",
+          "type": "flashcard",
+          "word_id": "hsk1-001"
+        },
+        {
+          "id": "ex-u1l1-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-001",
+          "prompt": "Which means 'hello'?",
+          "distractors": ["hsk1-002", "hsk1-006", "hsk1-007"]
+        },
+        {
+          "id": "ex-u1l1-003",
+          "type": "listening",
+          "word_id": "hsk1-001",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-002", "hsk1-006", "hsk1-007"]
+        },
+        {
+          "id": "ex-u1l1-004",
+          "type": "fill_in_blank",
+          "sentence_template": "___, 我叫司凯德。",
+          "correct_word_id": "hsk1-001",
+          "distractors": ["hsk1-002", "hsk1-006", "hsk1-007"]
+        },
+        {
+          "id": "ex-u1l1-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-001", "match": "hello" },
+            { "word_id": "hsk1-002", "match": "goodbye" },
+            { "word_id": "hsk1-003", "match": "thank you" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit1-lesson2",
+      "lesson_index": 2,
+      "title": "Please & Sorry",
+      "title_zh": "请与对不起",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u1l2-001",
+          "type": "flashcard",
+          "word_id": "hsk1-004"
+        },
+        {
+          "id": "ex-u1l2-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-004",
+          "prompt": "Which means 'sorry'?",
+          "distractors": ["hsk1-005", "hsk1-006", "hsk1-003"]
+        },
+        {
+          "id": "ex-u1l2-003",
+          "type": "listening",
+          "word_id": "hsk1-006",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-004", "hsk1-005", "hsk1-003"]
+        },
+        {
+          "id": "ex-u1l2-004",
+          "type": "fill_in_blank",
+          "sentence_template": "___, 司凯德想问一个问题。",
+          "correct_word_id": "hsk1-006",
+          "distractors": ["hsk1-004", "hsk1-005", "hsk1-002"]
+        },
+        {
+          "id": "ex-u1l2-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-004", "match": "sorry" },
+            { "word_id": "hsk1-005", "match": "no problem" },
+            { "word_id": "hsk1-006", "match": "please" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit1-lesson3",
+      "lesson_index": 3,
+      "title": "I, You & Names",
+      "title_zh": "我、你与名字",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u1l3-001",
+          "type": "flashcard",
+          "word_id": "hsk1-008"
+        },
+        {
+          "id": "ex-u1l3-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-013",
+          "prompt": "Which means 'be called'?",
+          "distractors": ["hsk1-014", "hsk1-015", "hsk1-009"]
+        },
+        {
+          "id": "ex-u1l3-003",
+          "type": "listening",
+          "word_id": "hsk1-014",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-013", "hsk1-015", "hsk1-012"]
+        },
+        {
+          "id": "ex-u1l3-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德___我的老朋友。",
+          "correct_word_id": "hsk1-015",
+          "distractors": ["hsk1-016", "hsk1-017", "hsk1-013"]
+        },
+        {
+          "id": "ex-u1l3-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-008", "match": "I / me" },
+            { "word_id": "hsk1-009", "match": "you" },
+            { "word_id": "hsk1-012", "match": "we / us" }
+          ]
+        }
+      ]
+    }
+  ]
+}

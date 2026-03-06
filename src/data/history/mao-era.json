@@ -1,0 +1,96 @@
+{
+  "id": "mao-era",
+  "title": "The Mao Era: Building a New China",
+  "title_zh": "毛泽东时代：建设新中国",
+  "category": "history",
+  "difficulty": "intermediate",
+  "estimated_read_minutes": 3,
+  "xp_reward": 25,
+  "thumbnail_emoji": "⭐",
+  "kit_commentary": "Old farmers I've met in Shandong and Sichuan over the decades speak about the Mao years with real complexity — genuine pride in national liberation mixed with quiet grief over the famine years — and that layered memory has always struck me as far more honest than any simple verdict.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "On October 1, 1949, Mao Zedong stood atop Tiananmen Gate in Beijing and proclaimed the founding of the People's Republic of China. After more than two decades of civil war and Japanese occupation, the Chinese Communist Party had defeated the Nationalist forces of Chiang Kai-shek, who retreated to Taiwan. The new government moved quickly to consolidate power, launching land reform campaigns that redistributed farmland from landlords to peasants. This resonated deeply in a country where rural poverty had been severe and landlessness widespread. The early years of the People's Republic also saw close alignment with the Soviet Union, which provided technical assistance and served as a model for socialist construction in agriculture, industry, and governance.",
+        "vocab_highlights": [
+          { "word": "People's Republic of China", "zh": "中华人民共和国", "pinyin": "Zhōnghuá Rénmín Gònghéguó" },
+          { "word": "land reform", "zh": "土地改革", "pinyin": "tǔdì gǎigé" },
+          { "word": "Communist Party", "zh": "共产党", "pinyin": "Gòngchǎndǎng" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "The Great Leap Forward, launched in 1958, was Mao's ambitious attempt to rapidly transform China from an agrarian society into a socialist industrial power. Peasants were organized into large people's communes, and backyard steel furnaces were set up across the countryside as millions of citizens were mobilized to produce iron and steel. Agricultural production targets were wildly exaggerated in official reports, and local officials, fearing punishment for failure, reported inflated harvests. The resulting policies — including the diversion of farm labor to steel production and the requisitioning of grain based on false figures — contributed to a catastrophic famine between 1959 and 1961. Scholarly estimates of deaths from famine-related causes range widely, but the scale of the tragedy was immense and profoundly shaped China's subsequent history.",
+        "vocab_highlights": [
+          { "word": "Great Leap Forward", "zh": "大跃进", "pinyin": "Dà Yuèjìn" },
+          { "word": "people's commune", "zh": "人民公社", "pinyin": "rénmín gōngshè" },
+          { "word": "famine", "zh": "饥荒", "pinyin": "jīhuāng" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "Throughout his rule, Mao cultivated an intense personality cult that placed him at the center of Chinese political and cultural life. His image appeared on walls and badges across the country, and his collected quotations — the famous Little Red Book — were studied and recited by hundreds of millions. The Party portrayed Mao as not merely a political leader but as the revolutionary helmsman guiding China toward a new future. This cult of personality served political purposes: it concentrated authority, mobilized mass campaigns, and made dissent enormously difficult. Mao died in September 1976, and within weeks, his most radical allies — the Gang of Four — were arrested, marking the effective end of the revolutionary era he had defined. The party today maintains that Mao was 70 percent correct and 30 percent in error.",
+        "vocab_highlights": [
+          { "word": "personality cult", "zh": "个人崇拜", "pinyin": "gèrén chóngbài" },
+          { "word": "Little Red Book", "zh": "小红书", "pinyin": "Xiǎo Hóng Shū" },
+          { "word": "Gang of Four", "zh": "四人帮", "pinyin": "Sìrén Bāng" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "On what date did Mao Zedong proclaim the founding of the People's Republic of China?",
+        "options": ["January 1, 1949", "May 4, 1949", "October 1, 1949", "December 25, 1949"],
+        "correct_index": 2,
+        "explanation": "October 1, 1949 is National Day in China, marking the moment Mao proclaimed the People's Republic from Tiananmen Gate in Beijing."
+      },
+      {
+        "id": "q2",
+        "question": "What was a central goal of the early land reform campaigns?",
+        "options": [
+          "To collectivize all land into state farms immediately",
+          "To redistribute farmland from landlords to peasants",
+          "To encourage private farming through incentives",
+          "To lease farmland to foreign agricultural investors"
+        ],
+        "correct_index": 1,
+        "explanation": "Land reform redistributed farmland from landlords to poor peasants, a politically popular move that addressed deep rural inequality and helped consolidate Communist Party support."
+      },
+      {
+        "id": "q3",
+        "question": "What was one major cause of the famine during the Great Leap Forward?",
+        "options": [
+          "A prolonged drought that affected all of China simultaneously",
+          "Trade sanctions imposed by Western countries",
+          "Inflated harvest reports that led to excessive grain requisitioning",
+          "A mass migration of farmers from rural to urban areas"
+        ],
+        "correct_index": 2,
+        "explanation": "Local officials reported exaggerated harvest figures to avoid punishment, causing the state to requisition grain that did not exist — leaving farming communities without enough food."
+      },
+      {
+        "id": "q4",
+        "question": "What is the famous collection of Mao's political sayings commonly called in English?",
+        "options": ["The Red Star", "The Little Red Book", "The Long March Texts", "The Hundred Flowers"],
+        "correct_index": 1,
+        "explanation": "Mao's Quotations, nicknamed the Little Red Book, was distributed to hundreds of millions of Chinese citizens and became a symbol of the Maoist personality cult."
+      },
+      {
+        "id": "q5",
+        "question": "How does the Chinese Communist Party officially assess Mao Zedong's legacy?",
+        "options": [
+          "As entirely positive, a perfect revolutionary leader",
+          "As entirely negative, responsible for catastrophic errors",
+          "As 70 percent correct and 30 percent in error",
+          "The Party has never issued an official verdict on Mao"
+        ],
+        "correct_index": 2,
+        "explanation": "The CCP's 1981 historical resolution concluded that Mao was '70 percent correct, 30 percent in error,' acknowledging serious mistakes while preserving his foundational status."
+      }
+    ]
+  }
+}

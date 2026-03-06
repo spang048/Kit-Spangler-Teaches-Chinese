@@ -1,0 +1,92 @@
+{
+  "topics": [
+    {
+      "id": "imperial-china",
+      "title": "Imperial China: The Dragon Throne",
+      "title_zh": "帝制中国：龙椅",
+      "category": "history",
+      "difficulty": "beginner",
+      "estimated_read_minutes": 3,
+      "xp_reward": 20,
+      "order": 1,
+      "thumbnail_emoji": "🏯"
+    },
+    {
+      "id": "mao-era",
+      "title": "The Mao Era: Building a New China",
+      "title_zh": "毛泽东时代：建设新中国",
+      "category": "history",
+      "difficulty": "intermediate",
+      "estimated_read_minutes": 3,
+      "xp_reward": 25,
+      "order": 2,
+      "thumbnail_emoji": "⭐"
+    },
+    {
+      "id": "cultural-revolution",
+      "title": "The Cultural Revolution: Ten Years of Turmoil",
+      "title_zh": "文化大革命：十年动乱",
+      "category": "history",
+      "difficulty": "intermediate",
+      "estimated_read_minutes": 3,
+      "xp_reward": 25,
+      "order": 3,
+      "thumbnail_emoji": "📕"
+    },
+    {
+      "id": "reform-opening-up",
+      "title": "Reform and Opening Up: China's Great Transformation",
+      "title_zh": "改革开放：中国的伟大转型",
+      "category": "history",
+      "difficulty": "intermediate",
+      "estimated_read_minutes": 3,
+      "xp_reward": 25,
+      "order": 4,
+      "thumbnail_emoji": "🏗️"
+    },
+    {
+      "id": "chinese-food",
+      "title": "Chinese Cuisine: A Nation Eats",
+      "title_zh": "中国饮食：舌尖上的中国",
+      "category": "culture",
+      "difficulty": "beginner",
+      "estimated_read_minutes": 3,
+      "xp_reward": 20,
+      "order": 5,
+      "thumbnail_emoji": "🍜"
+    },
+    {
+      "id": "customs-etiquette",
+      "title": "Chinese Customs & Social Etiquette",
+      "title_zh": "中国风俗与社交礼仪",
+      "category": "culture",
+      "difficulty": "beginner",
+      "estimated_read_minutes": 3,
+      "xp_reward": 20,
+      "order": 6,
+      "thumbnail_emoji": "🧧"
+    },
+    {
+      "id": "chinese-politics",
+      "title": "China's Political System Today",
+      "title_zh": "当今中国的政治制度",
+      "category": "politics",
+      "difficulty": "intermediate",
+      "estimated_read_minutes": 3,
+      "xp_reward": 25,
+      "order": 7,
+      "thumbnail_emoji": "🏛️"
+    },
+    {
+      "id": "contemporary-china",
+      "title": "Contemporary China: Life in the 21st Century",
+      "title_zh": "当代中国：21世纪的生活",
+      "category": "culture",
+      "difficulty": "beginner",
+      "estimated_read_minutes": 3,
+      "xp_reward": 20,
+      "order": 8,
+      "thumbnail_emoji": "🌆"
+    }
+  ]
+}

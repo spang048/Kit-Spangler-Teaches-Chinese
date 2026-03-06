@@ -1,0 +1,96 @@
+{
+  "id": "cultural-revolution",
+  "title": "The Cultural Revolution: Ten Years of Turmoil",
+  "title_zh": "文化大革命：十年动乱",
+  "category": "history",
+  "difficulty": "intermediate",
+  "estimated_read_minutes": 3,
+  "xp_reward": 25,
+  "thumbnail_emoji": "📕",
+  "kit_commentary": "In the 1990s, older colleagues and farmers I worked alongside in Shandong would sometimes describe the Cultural Revolution years in hushed tones — lost educations, denounced parents, books burned — and the pain was still so close to the surface that I learned early on to listen far more than I spoke.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "The Cultural Revolution, officially known as the Great Proletarian Cultural Revolution, was launched by Mao Zedong in 1966 and lasted until his death in 1976. Mao initiated the movement to purge what he called bourgeois elements from Chinese society and reassert his personal authority within the Communist Party after the failures of the Great Leap Forward. The campaign unleashed mass political violence and social upheaval on a vast scale. Young people organized into paramilitary groups called Red Guards were directed to attack the Four Olds: old customs, old culture, old habits, and old ideas. Schools and universities were closed, temples and cultural sites were vandalized or destroyed, and religious practice was brutally suppressed. The period is officially acknowledged by the Chinese Communist Party as a grave error.",
+        "vocab_highlights": [
+          { "word": "Cultural Revolution", "zh": "文化大革命", "pinyin": "Wénhuà Dà Gémìng" },
+          { "word": "Red Guards", "zh": "红卫兵", "pinyin": "Hóng Wèibīng" },
+          { "word": "Four Olds", "zh": "四旧", "pinyin": "Sì Jiù" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Intellectuals, teachers, doctors, and anyone with foreign connections or perceived class enemies became targets of denunciation campaigns. Public struggle sessions, known as pi dou hui, forced accused individuals to stand before crowds and confess to political crimes, often after being beaten. Many were sent to rural areas for reeducation through labor — a policy that uprooted millions of urban young people known as sent-down youth, or zhiqing, who were relocated to the countryside to work alongside peasants. Families were torn apart as children were encouraged to denounce parents and siblings who held incorrect views. An estimated 1.5 to 2 million people died from violence and persecution during the Cultural Revolution, and tens of millions more had their lives severely disrupted.",
+        "vocab_highlights": [
+          { "word": "struggle session", "zh": "批斗会", "pinyin": "pīdòuhuì" },
+          { "word": "sent-down youth", "zh": "知青", "pinyin": "zhīqīng" },
+          { "word": "reeducation", "zh": "再教育", "pinyin": "zài jiàoyù" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "The Cultural Revolution's impact on Chinese culture, education, and society was profound and long-lasting. An entire generation lost access to formal schooling during the years universities were closed, a cohort sometimes called the Lost Generation. Irreplaceable historical artifacts, manuscripts, and temples were destroyed. The arts were reduced to a narrow repertoire of revolutionary model operas approved by Mao's wife, Jiang Qing. When the movement ended after Mao's death and the arrest of the Gang of Four in 1976, China faced the enormous task of rebuilding its institutions and healing social divisions. The Cultural Revolution remains a sensitive topic in China today; public discussion is constrained, but a generation of memoirs, literature, and oral history has preserved its human dimensions.",
+        "vocab_highlights": [
+          { "word": "Lost Generation", "zh": "失落的一代", "pinyin": "shīluò de yīdài" },
+          { "word": "model opera", "zh": "样板戏", "pinyin": "yàngbǎn xì" },
+          { "word": "historical artifacts", "zh": "文物", "pinyin": "wénwù" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "In what year did the Cultural Revolution begin?",
+        "options": ["1958", "1962", "1966", "1972"],
+        "correct_index": 2,
+        "explanation": "Mao Zedong launched the Cultural Revolution in 1966, and it continued until his death in 1976 — a decade of political and social upheaval."
+      },
+      {
+        "id": "q2",
+        "question": "What were the 'Four Olds' that Red Guards were directed to attack?",
+        "options": [
+          "Old leaders, old soldiers, old farmers, old factories",
+          "Old customs, old culture, old habits, and old ideas",
+          "Old temples, old literature, old music, old clothing",
+          "Old landlords, old capitalists, old officials, old teachers"
+        ],
+        "correct_index": 1,
+        "explanation": "The Four Olds — old customs, old culture, old habits, and old ideas — were the targets of Red Guard campaigns to purge pre-revolutionary influences from Chinese society."
+      },
+      {
+        "id": "q3",
+        "question": "What was a 'struggle session' (pi dou hui)?",
+        "options": [
+          "A competitive examination for Communist Party membership",
+          "A public event where accused individuals were forced to confess political crimes before a crowd",
+          "A form of military drill required of all Red Guards",
+          "A theatrical performance promoting revolutionary values"
+        ],
+        "correct_index": 1,
+        "explanation": "Struggle sessions were public denunciation meetings where accused individuals — often intellectuals or those with class-enemy backgrounds — were humiliated, beaten, and forced to confess."
+      },
+      {
+        "id": "q4",
+        "question": "Who were the 'sent-down youth' (zhiqing)?",
+        "options": [
+          "Children sent abroad to study revolutionary theory",
+          "Young soldiers sent to China's border regions",
+          "Urban young people relocated to the countryside for reeducation through labor",
+          "Factory workers reassigned to agricultural communes"
+        ],
+        "correct_index": 2,
+        "explanation": "The zhiqing were millions of urban young people, often high school students, who were sent to rural areas to live and work with peasants as a form of ideological reeducation."
+      },
+      {
+        "id": "q5",
+        "question": "Which group was arrested shortly after Mao's death, signaling the end of the Cultural Revolution era?",
+        "options": ["The Red Guards", "The Gang of Four", "The Long March Veterans", "The People's Liberation Army leadership"],
+        "correct_index": 1,
+        "explanation": "The Gang of Four — including Mao's wife Jiang Qing — were arrested in October 1976, weeks after Mao's death, marking the end of the radical Maoist political era."
+      }
+    ]
+  }
+}

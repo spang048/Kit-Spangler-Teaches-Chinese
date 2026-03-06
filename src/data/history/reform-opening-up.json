@@ -1,0 +1,91 @@
+{
+  "id": "reform-opening-up",
+  "title": "Reform and Opening Up: China's Great Transformation",
+  "title_zh": "改革开放：中国的伟大转型",
+  "category": "history",
+  "difficulty": "intermediate",
+  "estimated_read_minutes": 3,
+  "xp_reward": 25,
+  "thumbnail_emoji": "🏗️",
+  "kit_commentary": "I first went to China in 1990 and returned just two years later to find changes that felt impossible — cranes everywhere, construction dust in the air, and farmers cautiously optimistic about selling milk at market prices — and that pace of transformation never really let up for the next three decades.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "After Mao's death and the fall of the Gang of Four, Deng Xiaoping emerged as China's paramount leader and initiated a sweeping program of economic reform. The policy of Reform and Opening Up, announced in 1978, represented a pragmatic departure from Maoist orthodoxy. Deng famously declared that 'it doesn't matter whether a cat is black or white, so long as it catches mice' — signaling that ideological purity would yield to practical results. Agricultural communes were dismantled, and the household responsibility system allowed farm families to sell surplus production on the open market after meeting state quotas. This unlocked enormous productivity gains in the countryside and generated the rural savings that would fuel subsequent industrial growth. Deng's approach prioritized economic development while maintaining firm Communist Party political control.",
+        "vocab_highlights": [
+          { "word": "Reform and Opening Up", "zh": "改革开放", "pinyin": "Gǎigé Kāifàng" },
+          { "word": "household responsibility system", "zh": "家庭联产承包责任制", "pinyin": "jiātíng liánchǎn chéngbāo zérènzhì" },
+          { "word": "Deng Xiaoping", "zh": "邓小平", "pinyin": "Dèng Xiǎopíng" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Special Economic Zones were established in coastal areas — beginning with Shenzhen, adjacent to Hong Kong — where foreign investment was welcomed, market mechanisms were permitted, and capitalist-style business practices were allowed within a socialist framework. These zones served as laboratories for economic experimentation and attracted massive foreign direct investment, particularly from overseas Chinese communities in Hong Kong, Taiwan, and Southeast Asia. Over the following decades, China's manufacturing sector expanded at extraordinary speed, transforming the country into the world's factory. Hundreds of millions of rural workers migrated to booming coastal cities, experiencing rapid income gains but also the social disruptions of leaving their home villages. By the 2000s, China had become the world's second-largest economy.",
+        "vocab_highlights": [
+          { "word": "Special Economic Zone", "zh": "经济特区", "pinyin": "jīngjì tèqū" },
+          { "word": "Shenzhen", "zh": "深圳", "pinyin": "Shēnzhèn" },
+          { "word": "migrant workers", "zh": "农民工", "pinyin": "nóngmíngōng" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "The one-child policy, introduced in 1980, was a defining social intervention of the reform era. Facing concerns about population growth straining economic development, the government restricted most urban couples to a single child, enforced through fines, employment penalties, and sometimes coercive measures. The policy shaped an entire generation — the so-called Little Emperors — who grew up as only children lavished with family attention and expectation. It also contributed to a skewed sex ratio, as some families used selective practices to ensure their one permitted child was a son. The policy was progressively relaxed after 2013 and officially replaced with a three-child policy in 2021. The reform era's overall achievement — lifting hundreds of millions of people out of poverty — remains one of the most significant economic developments in modern history.",
+        "vocab_highlights": [
+          { "word": "one-child policy", "zh": "独生子女政策", "pinyin": "dúshēng zǐnǚ zhèngcè" },
+          { "word": "Little Emperor", "zh": "小皇帝", "pinyin": "xiǎo huángdì" },
+          { "word": "poverty alleviation", "zh": "扶贫", "pinyin": "fúpín" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "In what year did Deng Xiaoping announce the Reform and Opening Up policy?",
+        "options": ["1976", "1978", "1980", "1984"],
+        "correct_index": 1,
+        "explanation": "The Reform and Opening Up policy was announced in 1978 at the Third Plenary Session of the 11th Central Committee of the Chinese Communist Party."
+      },
+      {
+        "id": "q2",
+        "question": "What was the household responsibility system?",
+        "options": [
+          "A policy requiring households to report their income to the state",
+          "A system allowing farm families to sell surplus production on the open market after meeting state quotas",
+          "A program distributing housing in newly built urban areas",
+          "A requirement that each household maintain one Communist Party member"
+        ],
+        "correct_index": 1,
+        "explanation": "The household responsibility system dismantled collective communes and gave farm families the right to sell surplus produce at market prices, dramatically boosting agricultural productivity."
+      },
+      {
+        "id": "q3",
+        "question": "Which city was home to China's first and most famous Special Economic Zone?",
+        "options": ["Shanghai", "Guangzhou", "Shenzhen", "Xiamen"],
+        "correct_index": 2,
+        "explanation": "Shenzhen, a small fishing village adjacent to Hong Kong, became China's first Special Economic Zone in 1980 and grew into a major industrial and technology city within decades."
+      },
+      {
+        "id": "q4",
+        "question": "What term was commonly used for the generation raised under the one-child policy?",
+        "options": ["The Red Generation", "The Long March Children", "The Little Emperors", "The Reform Kids"],
+        "correct_index": 2,
+        "explanation": "Children raised as the sole child in their family were nicknamed Little Emperors, reflecting the intense parental and grandparental attention and expectations placed on them."
+      },
+      {
+        "id": "q5",
+        "question": "Which of the following best describes Deng Xiaoping's approach to economic reform?",
+        "options": [
+          "Immediate full privatization of all state industries",
+          "Rejection of any foreign investment to preserve socialism",
+          "Pragmatic experimentation prioritizing results over ideological purity",
+          "Rapid political democratization alongside economic opening"
+        ],
+        "correct_index": 2,
+        "explanation": "Deng's famous 'black cat, white cat' saying captured his pragmatic philosophy: economic policies should be judged by their results, not their ideological purity — while political control remained firmly with the Party."
+      }
+    ]
+  }
+}

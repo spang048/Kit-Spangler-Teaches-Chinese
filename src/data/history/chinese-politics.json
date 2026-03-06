@@ -1,0 +1,101 @@
+{
+  "id": "chinese-politics",
+  "title": "China's Political System Today",
+  "title_zh": "当今中国的政治制度",
+  "category": "politics",
+  "difficulty": "intermediate",
+  "estimated_read_minutes": 3,
+  "xp_reward": 25,
+  "thumbnail_emoji": "🏛️",
+  "kit_commentary": "Working in Chinese agriculture over the decades has meant navigating both local officials and Party structures, and what I've come to understand is that the system is far more layered and internally debated than outsiders often assume — though the boundaries of that debate are clearly defined.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "China is governed by a single-party system under the Chinese Communist Party, which maintains authority over the state, military, and major social institutions. The Party's highest decision-making body is the Politburo Standing Committee, a small group of senior leaders that sets national policy. Below it sits the broader Politburo and the Central Committee, which formally elects top leadership. The National People's Congress, or quanguo renmin daibiao dahui, is China's national legislature and formally the highest organ of state power, with nearly three thousand delegates. In practice, it ratifies Party decisions rather than independently legislating. Provincial, municipal, and county governments mirror this dual Party-state structure at lower levels. The People's Liberation Army swears allegiance to the Party rather than the state — a distinction with significant implications for how political authority is structured.",
+        "vocab_highlights": [
+          { "word": "Chinese Communist Party", "zh": "中国共产党", "pinyin": "Zhōngguó Gòngchǎndǎng" },
+          { "word": "National People's Congress", "zh": "全国人民代表大会", "pinyin": "quánguó rénmín dàibiǎo dàhuì" },
+          { "word": "Politburo Standing Committee", "zh": "政治局常委", "pinyin": "zhèngzhìjú chángwěi" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Xi Jinping came to power as General Secretary of the Communist Party in 2012 and as President in 2013, consolidating authority more comprehensively than any leader since Mao. Under Xi, term limits on the presidency were abolished in 2018, enabling indefinite rule. Anti-corruption campaigns have removed hundreds of thousands of officials at all levels of government — strengthening both Xi's personal authority and, in the view of many citizens, addressing genuine grievances about official corruption. Xi's political philosophy, known as Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, was written into the Party constitution in 2017. Domestically, the Xi era has seen increased surveillance, tighter control of civil society and media, and a reassertion of Party authority across sectors including technology, education, and finance.",
+        "vocab_highlights": [
+          { "word": "General Secretary", "zh": "总书记", "pinyin": "zǒng shūjì" },
+          { "word": "anti-corruption campaign", "zh": "反腐运动", "pinyin": "fǎn fǔ yùndòng" },
+          { "word": "new era", "zh": "新时代", "pinyin": "xīn shídài" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "The Belt and Road Initiative, announced in 2013, is China's signature foreign policy and infrastructure investment program. It involves financing and building roads, railways, ports, and energy infrastructure across Asia, Africa, the Middle East, and Europe, linking these regions more closely to China economically. Supporters see it as a genuine development initiative that brings infrastructure to underserved regions; critics raise concerns about debt sustainability and strategic motivations. Alongside the Belt and Road, China has asserted more confident foreign policy positions on issues including Taiwan, the South China Sea, and Hong Kong. The relationship between China and the United States has become increasingly competitive across technology, trade, and geopolitical influence, shaping international relations well into the 21st century.",
+        "vocab_highlights": [
+          { "word": "Belt and Road Initiative", "zh": "一带一路", "pinyin": "yī dài yī lù" },
+          { "word": "foreign policy", "zh": "外交政策", "pinyin": "wàijiāo zhèngcè" },
+          { "word": "Taiwan", "zh": "台湾", "pinyin": "Táiwān" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the highest decision-making body within the Chinese Communist Party?",
+        "options": [
+          "The National People's Congress",
+          "The State Council",
+          "The Politburo Standing Committee",
+          "The Central Military Commission"
+        ],
+        "correct_index": 2,
+        "explanation": "The Politburo Standing Committee is the small group of senior Party leaders that sets national policy and holds the highest decision-making authority in China's political system."
+      },
+      {
+        "id": "q2",
+        "question": "In what year did Xi Jinping become General Secretary of the Chinese Communist Party?",
+        "options": ["2008", "2010", "2012", "2015"],
+        "correct_index": 2,
+        "explanation": "Xi Jinping became General Secretary of the CCP in November 2012 and President of China in March 2013, beginning a consolidation of power that has continued since."
+      },
+      {
+        "id": "q3",
+        "question": "What significant constitutional change was made in 2018 regarding the Chinese presidency?",
+        "options": [
+          "The president was given direct control over the military",
+          "Term limits on the presidency were abolished, allowing indefinite rule",
+          "The presidency was merged with the position of General Secretary",
+          "Presidential elections were opened to candidates outside the Communist Party"
+        ],
+        "correct_index": 1,
+        "explanation": "In 2018, China's National People's Congress abolished the two-term limit on the presidency, removing the constitutional constraint that had previously prevented Xi Jinping from serving beyond 2023."
+      },
+      {
+        "id": "q4",
+        "question": "What does the Belt and Road Initiative primarily involve?",
+        "options": [
+          "Military alliances between China and partner countries",
+          "A trade agreement removing tariffs between Asian nations",
+          "Chinese financing and construction of infrastructure across Asia, Africa, and beyond",
+          "An educational exchange program sending Chinese students abroad"
+        ],
+        "correct_index": 2,
+        "explanation": "The Belt and Road Initiative (一带一路) involves Chinese state financing and construction of roads, railways, ports, and energy infrastructure in dozens of countries across multiple continents."
+      },
+      {
+        "id": "q5",
+        "question": "To whom does the People's Liberation Army swear allegiance?",
+        "options": [
+          "The President of China",
+          "The National People's Congress",
+          "The Chinese state",
+          "The Chinese Communist Party"
+        ],
+        "correct_index": 3,
+        "explanation": "The PLA swears allegiance to the Chinese Communist Party rather than the state, a defining feature of China's political structure that concentrates ultimate military authority with the Party leadership."
+      }
+    ]
+  }
+}

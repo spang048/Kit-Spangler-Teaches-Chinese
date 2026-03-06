@@ -1,0 +1,154 @@
+{
+  "id": "hsk1-unit2",
+  "hsk_level": 1,
+  "unit_index": 2,
+  "title": "Numbers & Time",
+  "title_zh": "数字与时间",
+  "description": "Learn numbers, days of the week, and how to tell the time.",
+  "kit_intro": "Numbers were the key to negotiating in Chinese markets. Once I could count and ask 多少钱, I went from tourist to someone people actually took seriously.",
+  "vocabulary_ids": [
+    "hsk1-021", "hsk1-022", "hsk1-023", "hsk1-024", "hsk1-025",
+    "hsk1-026", "hsk1-027", "hsk1-028", "hsk1-029", "hsk1-030",
+    "hsk1-031", "hsk1-032", "hsk1-033", "hsk1-034", "hsk1-035",
+    "hsk1-036", "hsk1-037", "hsk1-038", "hsk1-039", "hsk1-040",
+    "hsk1-041", "hsk1-042", "hsk1-043", "hsk1-044", "hsk1-045",
+    "hsk1-046", "hsk1-047"
+  ],
+  "lessons": [
+    {
+      "id": "hsk1-unit2-lesson1",
+      "lesson_index": 1,
+      "title": "Counting 1–10",
+      "title_zh": "数一到十",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u2l1-001",
+          "type": "flashcard",
+          "word_id": "hsk1-021"
+        },
+        {
+          "id": "ex-u2l1-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-025",
+          "prompt": "Which character means 'five'?",
+          "distractors": ["hsk1-024", "hsk1-026", "hsk1-027"]
+        },
+        {
+          "id": "ex-u2l1-003",
+          "type": "listening",
+          "word_id": "hsk1-030",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-028", "hsk1-029", "hsk1-021"]
+        },
+        {
+          "id": "ex-u2l1-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德有___个好朋友。",
+          "correct_word_id": "hsk1-023",
+          "distractors": ["hsk1-022", "hsk1-024", "hsk1-025"]
+        },
+        {
+          "id": "ex-u2l1-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-021", "match": "one" },
+            { "word_id": "hsk1-025", "match": "five" },
+            { "word_id": "hsk1-030", "match": "ten" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit2-lesson2",
+      "lesson_index": 2,
+      "title": "Days & Dates",
+      "title_zh": "日期与星期",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u2l2-001",
+          "type": "flashcard",
+          "word_id": "hsk1-036"
+        },
+        {
+          "id": "ex-u2l2-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-037",
+          "prompt": "Which means 'tomorrow'?",
+          "distractors": ["hsk1-036", "hsk1-038", "hsk1-035"]
+        },
+        {
+          "id": "ex-u2l2-003",
+          "type": "listening",
+          "word_id": "hsk1-035",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-031", "hsk1-032", "hsk1-033"]
+        },
+        {
+          "id": "ex-u2l2-004",
+          "type": "fill_in_blank",
+          "sentence_template": "___，司凯德要去北京。",
+          "correct_word_id": "hsk1-037",
+          "distractors": ["hsk1-038", "hsk1-036", "hsk1-035"]
+        },
+        {
+          "id": "ex-u2l2-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-036", "match": "today" },
+            { "word_id": "hsk1-037", "match": "tomorrow" },
+            { "word_id": "hsk1-038", "match": "yesterday" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit2-lesson3",
+      "lesson_index": 3,
+      "title": "Telling the Time",
+      "title_zh": "几点了",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u2l3-001",
+          "type": "flashcard",
+          "word_id": "hsk1-041"
+        },
+        {
+          "id": "ex-u2l3-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-043",
+          "prompt": "Which means 'morning / AM'?",
+          "distractors": ["hsk1-044", "hsk1-045", "hsk1-039"]
+        },
+        {
+          "id": "ex-u2l3-003",
+          "type": "listening",
+          "word_id": "hsk1-046",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-047", "hsk1-040", "hsk1-041"]
+        },
+        {
+          "id": "ex-u2l3-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德___上午八___到学校。",
+          "correct_word_id": "hsk1-039",
+          "distractors": ["hsk1-036", "hsk1-037", "hsk1-040"]
+        },
+        {
+          "id": "ex-u2l3-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-043", "match": "morning / AM" },
+            { "word_id": "hsk1-044", "match": "afternoon / PM" },
+            { "word_id": "hsk1-045", "match": "noon" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "customs-etiquette",
+  "title": "Chinese Customs & Social Etiquette",
+  "title_zh": "中国风俗与社交礼仪",
+  "category": "culture",
+  "difficulty": "beginner",
+  "estimated_read_minutes": 3,
+  "xp_reward": 20,
+  "thumbnail_emoji": "🧧",
+  "kit_commentary": "Understanding mianzi and guanxi changed how I operated entirely — once I stopped trying to rush to the point in meetings and started paying attention to the relational dimension of every interaction, doors opened that I hadn't even realized were closed.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "Two concepts are essential for understanding Chinese social dynamics: mianzi and guanxi. Mianzi, often translated as 'face,' refers to a person's social reputation, dignity, and prestige in the eyes of others. Giving someone face — by complimenting them publicly, deferring to their expertise, or acknowledging their status — strengthens relationships. Causing someone to lose face — by criticizing them in public, contradicting them before others, or humiliating them — can cause lasting damage to a relationship. Guanxi, meaning 'relationships' or 'connections,' describes the network of mutual obligations, trust, and reciprocity that underpins Chinese social and business life. In contexts where formal institutions are less reliable, guanxi networks provide access to resources, opportunities, and social support. Cultivating guanxi requires investment: gifts, shared meals, favors, and time.",
+        "vocab_highlights": [
+          { "word": "face / social prestige", "zh": "面子", "pinyin": "miànzi" },
+          { "word": "relationships / connections", "zh": "关系", "pinyin": "guānxi" },
+          { "word": "to give face", "zh": "给面子", "pinyin": "gěi miànzi" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Gift-giving in China follows its own etiquette and is central to maintaining guanxi. Gifts are typically not opened in front of the giver, to avoid putting either party in an awkward position. The number four is considered deeply unlucky because the word for four — si — sounds similar to the word for death, so gifts should never come in sets of four. The number eight, by contrast, is highly auspicious because it sounds like the word for prosperity. Red envelopes — hongbao — containing cash are given at weddings, Chinese New Year, and other significant occasions and represent goodwill and good fortune. When presenting or receiving gifts, business cards, or items with both hands is a sign of respect. Clocks and shoes are traditionally avoided as gifts, as they carry negative symbolic associations.",
+        "vocab_highlights": [
+          { "word": "red envelope", "zh": "红包", "pinyin": "hóngbāo" },
+          { "word": "auspicious / lucky", "zh": "吉祥", "pinyin": "jíxiáng" },
+          { "word": "unlucky", "zh": "不吉利", "pinyin": "bù jílì" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "Chinese banquet culture has its own elaborate customs that reflect hierarchical values and the importance of hospitality. The guest of honor typically sits facing the door at a round table, with the host seated opposite. The host orders and serves the food, and it is polite to accept offered dishes graciously — repeatedly refusing food can be interpreted as dissatisfaction with the hospitality. Toasting is frequent and ritualized: the host initiates toasts with the expression ganbei, meaning 'dry cup,' and guests are expected to participate. Business discussions often wait until after food and drink have flowed and the atmosphere is relaxed. Superstitions also shape daily life: red is the color of luck and joy, white and black are associated with mourning, and specific dates are chosen carefully for weddings, business openings, and major decisions.",
+        "vocab_highlights": [
+          { "word": "cheers / dry cup", "zh": "干杯", "pinyin": "gānbēi" },
+          { "word": "banquet", "zh": "宴会", "pinyin": "yànhuì" },
+          { "word": "hospitality", "zh": "好客", "pinyin": "hàokè" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the Chinese concept of 'mianzi' refer to?",
+        "options": [
+          "A person's physical appearance and grooming",
+          "A person's social reputation, dignity, and prestige in the eyes of others",
+          "The act of giving gifts to build relationships",
+          "The proper way to address elders and superiors"
+        ],
+        "correct_index": 1,
+        "explanation": "Mianzi (面子) means 'face' in the sense of social standing and public dignity. Protecting, giving, and maintaining face are central to Chinese social interactions."
+      },
+      {
+        "id": "q2",
+        "question": "Why is the number four considered unlucky in Chinese culture?",
+        "options": [
+          "It is associated with the four seasons and the passage of time",
+          "Four emperors in history died in years ending with four",
+          "The word for four sounds similar to the word for death",
+          "Traditional Chinese cosmology considered four to be an imbalanced number"
+        ],
+        "correct_index": 2,
+        "explanation": "The Mandarin word for four (四, sì) is nearly homophonous with the word for death (死, sǐ), making four a number to avoid in gifts, addresses, phone numbers, and important dates."
+      },
+      {
+        "id": "q3",
+        "question": "What are hongbao, and when are they typically given?",
+        "options": [
+          "Red scarves given to children on their first day of school",
+          "Red envelopes containing cash given at weddings, Chinese New Year, and celebrations",
+          "Official documents sealed in red envelopes for formal occasions",
+          "Red gift boxes containing sweets given at funerals"
+        ],
+        "correct_index": 1,
+        "explanation": "Hongbao (红包) are red envelopes containing cash given as gifts on festive and celebratory occasions, symbolizing good luck, prosperity, and goodwill."
+      },
+      {
+        "id": "q4",
+        "question": "What does 'ganbei' mean and when is it used?",
+        "options": [
+          "It means 'thank you' and is said when receiving a gift",
+          "It means 'good appetite' and is said before a meal begins",
+          "It means 'dry cup' and is a toasting expression used during banquets",
+          "It means 'welcome' and is used when greeting guests"
+        ],
+        "correct_index": 2,
+        "explanation": "Ganbei (干杯) literally means 'dry cup' and is the standard toasting expression at Chinese banquets, roughly equivalent to 'cheers' — though it often implies drinking the full glass."
+      },
+      {
+        "id": "q5",
+        "question": "What is the correct etiquette when receiving a gift or business card in China?",
+        "options": [
+          "Accept it with one hand and immediately open or read it",
+          "Politely decline it two or three times before accepting",
+          "Accept it with both hands as a sign of respect",
+          "Pass it to a colleague to hold while you continue the conversation"
+        ],
+        "correct_index": 2,
+        "explanation": "Receiving gifts, business cards, or any formal item with both hands is a sign of respect and appreciation in Chinese social etiquette, reflecting care and attentiveness."
+      }
+    ]
+  }
+}

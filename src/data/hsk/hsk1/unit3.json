@@ -1,0 +1,153 @@
+{
+  "id": "hsk1-unit3",
+  "hsk_level": 1,
+  "unit_index": 3,
+  "title": "Family & People",
+  "title_zh": "家人与人物",
+  "description": "Learn vocabulary for family members, professions, and describing people.",
+  "kit_intro": "When I first visited my Chinese colleagues' homes, knowing how to address their family members properly made all the difference. Calling someone's father 爸爸 with a respectful tone earned me more trust than any business card ever could.",
+  "vocabulary_ids": [
+    "hsk1-048", "hsk1-049", "hsk1-050", "hsk1-051", "hsk1-052",
+    "hsk1-053", "hsk1-054", "hsk1-055", "hsk1-056", "hsk1-057",
+    "hsk1-058", "hsk1-059", "hsk1-060", "hsk1-061", "hsk1-062",
+    "hsk1-063", "hsk1-064", "hsk1-065", "hsk1-066", "hsk1-067",
+    "hsk1-068", "hsk1-069", "hsk1-070"
+  ],
+  "lessons": [
+    {
+      "id": "hsk1-unit3-lesson1",
+      "lesson_index": 1,
+      "title": "Family Members",
+      "title_zh": "家庭成员",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u3l1-001",
+          "type": "flashcard",
+          "word_id": "hsk1-048"
+        },
+        {
+          "id": "ex-u3l1-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-049",
+          "prompt": "Which means 'mother / mom'?",
+          "distractors": ["hsk1-048", "hsk1-050", "hsk1-051"]
+        },
+        {
+          "id": "ex-u3l1-003",
+          "type": "listening",
+          "word_id": "hsk1-050",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-051", "hsk1-048", "hsk1-049"]
+        },
+        {
+          "id": "ex-u3l1-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德的___很高兴见到你。",
+          "correct_word_id": "hsk1-048",
+          "distractors": ["hsk1-049", "hsk1-050", "hsk1-051"]
+        },
+        {
+          "id": "ex-u3l1-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-048", "match": "father / dad" },
+            { "word_id": "hsk1-049", "match": "mother / mom" },
+            { "word_id": "hsk1-052", "match": "friend" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit3-lesson2",
+      "lesson_index": 2,
+      "title": "Professions",
+      "title_zh": "职业",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u3l2-001",
+          "type": "flashcard",
+          "word_id": "hsk1-053"
+        },
+        {
+          "id": "ex-u3l2-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-055",
+          "prompt": "Which means 'doctor'?",
+          "distractors": ["hsk1-053", "hsk1-054", "hsk1-056"]
+        },
+        {
+          "id": "ex-u3l2-003",
+          "type": "listening",
+          "word_id": "hsk1-054",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-053", "hsk1-055", "hsk1-056"]
+        },
+        {
+          "id": "ex-u3l2-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德是一个很好的___。",
+          "correct_word_id": "hsk1-053",
+          "distractors": ["hsk1-054", "hsk1-055", "hsk1-056"]
+        },
+        {
+          "id": "ex-u3l2-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-053", "match": "teacher" },
+            { "word_id": "hsk1-054", "match": "student" },
+            { "word_id": "hsk1-055", "match": "doctor" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit3-lesson3",
+      "lesson_index": 3,
+      "title": "Describing People",
+      "title_zh": "描述人物",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u3l3-001",
+          "type": "flashcard",
+          "word_id": "hsk1-066"
+        },
+        {
+          "id": "ex-u3l3-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-067",
+          "prompt": "Which means 'beautiful / pretty'?",
+          "distractors": ["hsk1-066", "hsk1-062", "hsk1-063"]
+        },
+        {
+          "id": "ex-u3l3-003",
+          "type": "listening",
+          "word_id": "hsk1-070",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-062", "hsk1-064", "hsk1-065"]
+        },
+        {
+          "id": "ex-u3l3-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德很___认识你。",
+          "correct_word_id": "hsk1-066",
+          "distractors": ["hsk1-067", "hsk1-068", "hsk1-069"]
+        },
+        {
+          "id": "ex-u3l3-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-062", "match": "big / large" },
+            { "word_id": "hsk1-063", "match": "small / little" },
+            { "word_id": "hsk1-066", "match": "happy" }
+          ]
+        }
+      ]
+    }
+  ]
+}

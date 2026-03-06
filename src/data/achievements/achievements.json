@@ -1,0 +1,139 @@
+{
+  "achievements": [
+    {
+      "id": "first-lesson",
+      "title": "First Steps",
+      "title_zh": "初学乍练",
+      "description": "Complete your first lesson",
+      "seal_label": "始",
+      "xp_bonus": 5,
+      "trigger": { "type": "lesson_count", "threshold": 1 }
+    },
+    {
+      "id": "lessons-5",
+      "title": "Getting Started",
+      "title_zh": "初入门径",
+      "description": "Complete 5 lessons",
+      "seal_label": "五",
+      "xp_bonus": 15,
+      "trigger": { "type": "lesson_count", "threshold": 5 }
+    },
+    {
+      "id": "lessons-25",
+      "title": "Dedicated Learner",
+      "title_zh": "勤学苦练",
+      "description": "Complete 25 lessons",
+      "seal_label": "勤",
+      "xp_bonus": 50,
+      "trigger": { "type": "lesson_count", "threshold": 25 }
+    },
+    {
+      "id": "streak-3",
+      "title": "On a Roll",
+      "title_zh": "连续三日",
+      "description": "Maintain a 3-day streak",
+      "seal_label": "三",
+      "xp_bonus": 15,
+      "trigger": { "type": "streak_days", "threshold": 3 }
+    },
+    {
+      "id": "streak-7",
+      "title": "Week Warrior",
+      "title_zh": "七日勇士",
+      "description": "Maintain a 7-day streak",
+      "seal_label": "七",
+      "xp_bonus": 50,
+      "trigger": { "type": "streak_days", "threshold": 7 }
+    },
+    {
+      "id": "streak-30",
+      "title": "Month Master",
+      "title_zh": "一月坚持",
+      "description": "Maintain a 30-day streak",
+      "seal_label": "月",
+      "xp_bonus": 200,
+      "trigger": { "type": "streak_days", "threshold": 30 }
+    },
+    {
+      "id": "hsk1-complete",
+      "title": "HSK 1 Champion",
+      "title_zh": "一级通过",
+      "description": "Complete all HSK 1 lessons",
+      "seal_label": "一",
+      "xp_bonus": 100,
+      "trigger": { "type": "hsk_level_complete", "threshold": 1 }
+    },
+    {
+      "id": "hsk2-complete",
+      "title": "HSK 2 Champion",
+      "title_zh": "二级通过",
+      "description": "Complete all HSK 2 lessons",
+      "seal_label": "二",
+      "xp_bonus": 150,
+      "trigger": { "type": "hsk_level_complete", "threshold": 2 }
+    },
+    {
+      "id": "hsk3-complete",
+      "title": "HSK 3 Champion",
+      "title_zh": "三级通过",
+      "description": "Complete all HSK 3 lessons",
+      "seal_label": "三",
+      "xp_bonus": 200,
+      "trigger": { "type": "hsk_level_complete", "threshold": 3 }
+    },
+    {
+      "id": "first-history",
+      "title": "History Begins",
+      "title_zh": "以史为鉴",
+      "description": "Complete your first history topic",
+      "seal_label": "史",
+      "xp_bonus": 20,
+      "trigger": { "type": "history_count", "threshold": 1 }
+    },
+    {
+      "id": "history-5",
+      "title": "History Scholar",
+      "title_zh": "历史学者",
+      "description": "Complete 5 history topics",
+      "seal_label": "文",
+      "xp_bonus": 75,
+      "trigger": { "type": "history_count", "threshold": 5 }
+    },
+    {
+      "id": "history-all",
+      "title": "Kit's Apprentice",
+      "title_zh": "司凯德弟子",
+      "description": "Complete all 8 history topics",
+      "seal_label": "师",
+      "xp_bonus": 150,
+      "trigger": { "type": "history_count", "threshold": 8 }
+    },
+    {
+      "id": "perfect-lesson",
+      "title": "Perfectionist",
+      "title_zh": "完美主义",
+      "description": "Score 100% on any lesson",
+      "seal_label": "满",
+      "xp_bonus": 25,
+      "trigger": { "type": "perfect_score", "threshold": 1 }
+    },
+    {
+      "id": "xp-500",
+      "title": "Rising Star",
+      "title_zh": "新星崛起",
+      "description": "Earn 500 total XP",
+      "seal_label": "星",
+      "xp_bonus": 30,
+      "trigger": { "type": "total_xp", "threshold": 500 }
+    },
+    {
+      "id": "xp-2000",
+      "title": "XP Master",
+      "title_zh": "积分大师",
+      "description": "Earn 2000 total XP",
+      "seal_label": "功",
+      "xp_bonus": 100,
+      "trigger": { "type": "total_xp", "threshold": 2000 }
+    }
+  ]
+}

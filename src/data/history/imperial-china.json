@@ -1,0 +1,86 @@
+{
+  "id": "imperial-china",
+  "title": "Imperial China: The Dragon Throne",
+  "title_zh": "帝制中国：龙椅",
+  "category": "history",
+  "difficulty": "beginner",
+  "estimated_read_minutes": 3,
+  "xp_reward": 20,
+  "thumbnail_emoji": "🏯",
+  "kit_commentary": "Walking through the Forbidden City for the first time in 1992 genuinely stopped me in my tracks — the sheer scale of it, and the weight of twenty-four emperors who had lived and died there, made China's imperial history feel very real and very human.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "China's imperial era spans more than two thousand years, from the unification of the warring states under Qin Shi Huang in 221 BCE to the abdication of the last Qing emperor in 1912. During this vast stretch of history, China was ruled by a succession of dynasties — powerful royal houses that rose, consolidated power, and eventually fell, often giving way to a new ruling family. The concept of the Mandate of Heaven, or tianming, was central to this system: emperors were believed to rule with the blessing of heaven itself, and natural disasters or military defeats were interpreted as signs that heaven's favor had been withdrawn. This idea provided both legitimacy for rulers and a framework for understanding dynastic collapse.",
+        "vocab_highlights": [
+          { "word": "dynasty", "zh": "朝代", "pinyin": "cháodài" },
+          { "word": "Mandate of Heaven", "zh": "天命", "pinyin": "tiānmìng" },
+          { "word": "emperor", "zh": "皇帝", "pinyin": "huángdì" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "Confucianism shaped the values and structure of imperial Chinese society for millennia. The philosopher Kong Qiu — known in the West as Confucius — taught that society functions best when everyone fulfills their proper role: ruler and subject, father and son, husband and wife. This hierarchical worldview was institutionalized through the imperial examination system, or keju, which allowed men from non-aristocratic families to enter government service by demonstrating mastery of classical texts. The exam system endured for over thirteen centuries and produced the scholar-officials, known as mandarins, who administered the empire. Confucian ideals of loyalty, filial piety, and ritual propriety remain influential in Chinese culture and family life today.",
+        "vocab_highlights": [
+          { "word": "Confucianism", "zh": "儒家", "pinyin": "rújiā" },
+          { "word": "imperial examination", "zh": "科举", "pinyin": "kējǔ" },
+          { "word": "filial piety", "zh": "孝", "pinyin": "xiào" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "The Forbidden City in Beijing, completed in 1420 during the Ming dynasty, stands as the most iconic symbol of imperial power. Known in Chinese as the Gugong, or Palace Museum, this vast complex of nearly a thousand buildings served as the imperial palace for twenty-four emperors across the Ming and Qing dynasties. Ordinary citizens were forbidden from entering — hence the name. The architecture itself communicated power: buildings faced south toward the sun, rooftop dragons and phoenixes signaled imperial authority, and every detail of color and ornamentation was governed by strict hierarchical rules. Today the Gugong is China's most visited museum, attracting millions of visitors each year and offering a vivid window into the splendor and ritual of court life.",
+        "vocab_highlights": [
+          { "word": "Forbidden City", "zh": "故宫", "pinyin": "Gùgōng" },
+          { "word": "Ming dynasty", "zh": "明朝", "pinyin": "Míng cháo" },
+          { "word": "dragon", "zh": "龙", "pinyin": "lóng" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "In what year did Qin Shi Huang unify China and begin the imperial era?",
+        "options": ["403 BCE", "221 BCE", "206 BCE", "141 BCE"],
+        "correct_index": 1,
+        "explanation": "Qin Shi Huang unified the warring states in 221 BCE, becoming the first emperor of a unified China and founding the Qin dynasty."
+      },
+      {
+        "id": "q2",
+        "question": "What is the Chinese term for the Mandate of Heaven?",
+        "options": ["Keju", "Tianming", "Guanxi", "Gugong"],
+        "correct_index": 1,
+        "explanation": "Tianming (天命) literally means 'heaven's mandate' and was the concept that legitimized imperial rule — and explained its loss when dynasties fell."
+      },
+      {
+        "id": "q3",
+        "question": "What was the primary purpose of the imperial examination system (keju)?",
+        "options": [
+          "To select military generals based on combat skill",
+          "To allow men to enter government service by mastering classical texts",
+          "To identify children gifted in mathematics and science",
+          "To certify merchants for trade along the Silk Road"
+        ],
+        "correct_index": 1,
+        "explanation": "The keju system allowed men from non-aristocratic families to become government officials by demonstrating mastery of Confucian classics, creating a merit-based bureaucracy."
+      },
+      {
+        "id": "q4",
+        "question": "How many emperors ruled from the Forbidden City?",
+        "options": ["12", "18", "24", "36"],
+        "correct_index": 2,
+        "explanation": "Twenty-four emperors from the Ming and Qing dynasties ruled from the Forbidden City between its completion in 1420 and the fall of the last dynasty in 1912."
+      },
+      {
+        "id": "q5",
+        "question": "Which philosopher's teachings most shaped the values of imperial Chinese society?",
+        "options": ["Laozi", "Sunzi", "Mengzi", "Kong Qiu (Confucius)"],
+        "correct_index": 3,
+        "explanation": "Kong Qiu, known in the West as Confucius, taught the hierarchical social values — loyalty, filial piety, and proper roles — that underpinned imperial Chinese governance and family life for over two thousand years."
+      }
+    ]
+  }
+}

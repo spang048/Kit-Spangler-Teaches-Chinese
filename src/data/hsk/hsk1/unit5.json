@@ -1,0 +1,160 @@
+{
+  "id": "hsk1-unit5",
+  "hsk_level": 1,
+  "unit_index": 5,
+  "title": "Places & Getting Around",
+  "title_zh": "地点与出行",
+  "description": "Learn how to navigate, describe locations, and talk about actions and preferences.",
+  "kit_intro": "Getting lost in Shanghai taught me the most Chinese I ever learned in a single afternoon. Knowing 哪儿 and 去 turned a panic into an adventure — and a taxi driver into a friend.",
+  "vocabulary_ids": [
+    "hsk1-095", "hsk1-096", "hsk1-097", "hsk1-098", "hsk1-099",
+    "hsk1-100", "hsk1-101", "hsk1-102", "hsk1-103", "hsk1-104",
+    "hsk1-105", "hsk1-106", "hsk1-107", "hsk1-108", "hsk1-109",
+    "hsk1-110", "hsk1-111", "hsk1-112", "hsk1-113", "hsk1-114",
+    "hsk1-115", "hsk1-116", "hsk1-117", "hsk1-118", "hsk1-119",
+    "hsk1-120", "hsk1-121", "hsk1-122", "hsk1-123", "hsk1-124",
+    "hsk1-125", "hsk1-126", "hsk1-127", "hsk1-128", "hsk1-129",
+    "hsk1-130", "hsk1-131", "hsk1-132", "hsk1-133", "hsk1-134",
+    "hsk1-135", "hsk1-136", "hsk1-137", "hsk1-138", "hsk1-139",
+    "hsk1-140", "hsk1-141", "hsk1-142", "hsk1-143", "hsk1-144",
+    "hsk1-145", "hsk1-146", "hsk1-147", "hsk1-148", "hsk1-149",
+    "hsk1-150"
+  ],
+  "lessons": [
+    {
+      "id": "hsk1-unit5-lesson1",
+      "lesson_index": 1,
+      "title": "Transport & Directions",
+      "title_zh": "交通与方向",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u5l1-001",
+          "type": "flashcard",
+          "word_id": "hsk1-096"
+        },
+        {
+          "id": "ex-u5l1-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-097",
+          "prompt": "Which means 'airplane'?",
+          "distractors": ["hsk1-095", "hsk1-096", "hsk1-101"]
+        },
+        {
+          "id": "ex-u5l1-003",
+          "type": "listening",
+          "word_id": "hsk1-098",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-099", "hsk1-100", "hsk1-103"]
+        },
+        {
+          "id": "ex-u5l1-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德坐出租车___北京机场。",
+          "correct_word_id": "hsk1-098",
+          "distractors": ["hsk1-099", "hsk1-100", "hsk1-102"]
+        },
+        {
+          "id": "ex-u5l1-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-095", "match": "car / vehicle" },
+            { "word_id": "hsk1-096", "match": "taxi" },
+            { "word_id": "hsk1-097", "match": "airplane" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit5-lesson2",
+      "lesson_index": 2,
+      "title": "Places & Locations",
+      "title_zh": "地点与位置",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u5l2-001",
+          "type": "flashcard",
+          "word_id": "hsk1-110"
+        },
+        {
+          "id": "ex-u5l2-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-112",
+          "prompt": "Which means 'hospital'?",
+          "distractors": ["hsk1-110", "hsk1-111", "hsk1-114"]
+        },
+        {
+          "id": "ex-u5l2-003",
+          "type": "listening",
+          "word_id": "hsk1-109",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-103", "hsk1-107", "hsk1-108"]
+        },
+        {
+          "id": "ex-u5l2-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德在___工作了两年。",
+          "correct_word_id": "hsk1-113",
+          "distractors": ["hsk1-110", "hsk1-111", "hsk1-112"]
+        },
+        {
+          "id": "ex-u5l2-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-110", "match": "home / family" },
+            { "word_id": "hsk1-111", "match": "school" },
+            { "word_id": "hsk1-112", "match": "hospital" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk1-unit5-lesson3",
+      "lesson_index": 3,
+      "title": "Actions & Preferences",
+      "title_zh": "动作与喜好",
+      "xp_reward": 10,
+      "estimated_minutes": 5,
+      "exercises": [
+        {
+          "id": "ex-u5l3-001",
+          "type": "flashcard",
+          "word_id": "hsk1-125"
+        },
+        {
+          "id": "ex-u5l3-002",
+          "type": "character_recognition",
+          "word_id": "hsk1-127",
+          "prompt": "Which means 'love'?",
+          "distractors": ["hsk1-125", "hsk1-126", "hsk1-128"]
+        },
+        {
+          "id": "ex-u5l3-003",
+          "type": "listening",
+          "word_id": "hsk1-121",
+          "prompt": "What did you hear?",
+          "distractors": ["hsk1-119", "hsk1-120", "hsk1-122"]
+        },
+        {
+          "id": "ex-u5l3-004",
+          "type": "fill_in_blank",
+          "sentence_template": "司凯德很___学习中文。",
+          "correct_word_id": "hsk1-125",
+          "distractors": ["hsk1-126", "hsk1-127", "hsk1-128"]
+        },
+        {
+          "id": "ex-u5l3-005",
+          "type": "matching",
+          "pairs": [
+            { "word_id": "hsk1-125", "match": "like" },
+            { "word_id": "hsk1-126", "match": "want / think / miss" },
+            { "word_id": "hsk1-127", "match": "love" }
+          ]
+        }
+      ]
+    }
+  ]
+}

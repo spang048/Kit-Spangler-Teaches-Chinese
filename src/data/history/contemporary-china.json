@@ -1,0 +1,101 @@
+{
+  "id": "contemporary-china",
+  "title": "Contemporary China: Life in the 21st Century",
+  "title_zh": "当代中国：21世纪的生活",
+  "category": "culture",
+  "difficulty": "beginner",
+  "estimated_read_minutes": 3,
+  "xp_reward": 20,
+  "thumbnail_emoji": "🌆",
+  "kit_commentary": "Every time I land in Shanghai or Chengdu now compared to my first visits in the early nineties, the contrast is almost vertiginous — but what strikes me most is not the skylines or the phones but watching young Chinese navigate a world their grandparents could not have imagined, with remarkable confidence and energy.",
+  "article": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "China's cities have transformed at a pace that has few historical parallels. In 1978, less than twenty percent of Chinese people lived in cities; today that figure exceeds sixty-five percent, representing the largest urbanization in human history. New cities have been built from scratch, and existing ones have expanded dramatically, producing a skyline of cranes and high-rises that became the defining image of China's economic rise. This rapid urban shift has created a new middle class numbering in the hundreds of millions, with rising disposable incomes, increased access to education, and appetite for consumer goods, travel, and lifestyle experiences. At the same time, urbanization has brought challenges: housing costs in major cities like Beijing and Shanghai rival those of global capitals, and the hukou household registration system has historically limited migrants' access to urban public services.",
+        "vocab_highlights": [
+          { "word": "urbanization", "zh": "城镇化", "pinyin": "chéngzhènhuà" },
+          { "word": "middle class", "zh": "中产阶级", "pinyin": "zhōngchǎn jiējí" },
+          { "word": "household registration", "zh": "户口", "pinyin": "hùkǒu" }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "China's technology ecosystem is among the most developed in the world, operating largely independently of Western platforms. WeChat, developed by Tencent, functions as a super-app integrating messaging, social media, payments, government services, and commerce — used by over a billion people. Alibaba built a vast e-commerce and fintech ecosystem, while platforms like Douyin (the Chinese version of TikTok) and Baidu define how Chinese users consume information and entertainment. Mobile payments through WeChat Pay and Alipay have made China largely cashless in urban areas, often ahead of Western counterparts. Younger Chinese consumers — in their twenties and thirties — are digitally native, globally informed through VPNs and travel, intensely brand-conscious, and often proudly nationalistic in ways that reflect the extraordinary changes their country has undergone within a single lifetime.",
+        "vocab_highlights": [
+          { "word": "WeChat", "zh": "微信", "pinyin": "Wēixìn" },
+          { "word": "mobile payment", "zh": "移动支付", "pinyin": "yídòng zhīfù" },
+          { "word": "internet", "zh": "互联网", "pinyin": "hùliánwǎng" }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "China's relationship with the United States has become the defining geopolitical relationship of the early 21st century. Trade tensions that escalated into tariff disputes, competition over semiconductor technology and artificial intelligence, disagreements over Taiwan and the South China Sea, and differing systems of governance have produced a complex and often tense dynamic. Within China, young people engage with this rivalry in nuanced ways — consuming Western culture while also expressing genuine pride in Chinese achievements and resentment of what many perceive as Western attempts to contain China's rise. The concept of a Chinese dream, or zhongguo meng, invokes national rejuvenation after the 'century of humiliation' by foreign powers, and resonates across generations. How China and the world navigate this period of adjustment will shape the international order for decades to come.",
+        "vocab_highlights": [
+          { "word": "Chinese Dream", "zh": "中国梦", "pinyin": "Zhōngguó mèng" },
+          { "word": "century of humiliation", "zh": "百年屈辱", "pinyin": "bǎinián qūrǔ" },
+          { "word": "national rejuvenation", "zh": "民族复兴", "pinyin": "mínzú fùxīng" }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Approximately what percentage of China's population lives in cities today?",
+        "options": ["Around 30%", "Around 45%", "Over 65%", "Over 85%"],
+        "correct_index": 2,
+        "explanation": "China's urban population now exceeds 65% of the total, up from under 20% in 1978 — representing the largest urbanization process in human history."
+      },
+      {
+        "id": "q2",
+        "question": "What is WeChat (Weixin) best described as?",
+        "options": [
+          "A government-run social media platform",
+          "A super-app integrating messaging, payments, social media, and services",
+          "A video streaming platform competing with YouTube",
+          "A Chinese version of email used primarily by businesses"
+        ],
+        "correct_index": 1,
+        "explanation": "WeChat is a super-app developed by Tencent that combines messaging, social media, mobile payments, e-commerce, and government services in a single platform used by over a billion people."
+      },
+      {
+        "id": "q3",
+        "question": "What is the hukou system?",
+        "options": [
+          "A mandatory savings account system for urban workers",
+          "A household registration system that historically limited migrants' access to urban public services",
+          "A loyalty points program administered by local governments",
+          "A credit rating system used by Chinese banks"
+        ],
+        "correct_index": 1,
+        "explanation": "The hukou (户口) system ties citizens' access to education, healthcare, and social services to their place of household registration, historically creating barriers for rural migrants in cities."
+      },
+      {
+        "id": "q4",
+        "question": "What does the 'Chinese Dream' (zhongguo meng) primarily refer to?",
+        "options": [
+          "Individual wealth accumulation through entrepreneurship",
+          "National rejuvenation and restoration of China's historical greatness",
+          "China surpassing the United States in GDP",
+          "Universal home ownership for all Chinese citizens"
+        ],
+        "correct_index": 1,
+        "explanation": "The Chinese Dream (中国梦) is a concept promoted by Xi Jinping referring to national rejuvenation — restoring China to what is seen as its rightful place of prominence after the 'century of humiliation' by foreign powers."
+      },
+      {
+        "id": "q5",
+        "question": "Which of the following best describes the current China-US relationship?",
+        "options": [
+          "Close allies with shared strategic interests",
+          "Completely isolated from each other economically and diplomatically",
+          "A complex, competitive relationship spanning trade, technology, and geopolitics",
+          "A formal Cold War with limited economic exchange"
+        ],
+        "correct_index": 2,
+        "explanation": "The China-US relationship is deeply intertwined yet increasingly competitive — the two economies are interdependent through trade while rivals in technology, military influence, and global governance."
+      }
+    ]
+  }
+}
