@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { KitAvatar } from "@/components/ui/KitAvatar";
 import { SealStamp } from "@/components/ui/SealStamp";
 import { DailyGoalRing } from "@/components/dashboard/DailyGoalRing";
@@ -33,6 +34,18 @@ export default function DashboardPage() {
 
   return (
     <div className="px-4 py-6">
+      {/* Perspective 180 branding */}
+      <div className="flex justify-center mb-5">
+        <Image
+          src="/images/Perspective 180 logo.png"
+          alt="Perspective 180"
+          width={200}
+          height={67}
+          className="object-contain"
+          priority
+        />
+      </div>
+
       {/* Kit greeting */}
       <KitAvatar
         mood={goalComplete ? "celebrating" : "encouraging"}
