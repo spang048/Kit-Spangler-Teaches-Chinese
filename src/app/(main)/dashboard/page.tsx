@@ -37,7 +37,7 @@ export default function DashboardPage() {
       {/* Perspective 180 branding */}
       <div className="flex justify-center mb-5">
         <Image
-          src="/images/Perspective 180 logo.png"
+          src="/images/perspective180-logo.png"
           alt="Perspective 180"
           width={200}
           height={67}
